@@ -19,7 +19,7 @@ let n = null; // Null
 
 let u; 
   // tempelate literal 
-  console.log(`The value of u is: ${num}`);
+  console.log(`The value of u is: ${u}`);
 
 
 
@@ -49,7 +49,7 @@ let k; // no need to say undefined explicitly,
 let m = null;
 // null is used to represent the intentional absence of any object value.
 
-console.log(l, m , n ); // "string"  // n is a variable declared above and its type is null
+console.log(l, m , n ); // Output: undefined null null
 
 // OPERATORS IN Js
 //operators are special symbols that perform operations on operands (values and variables).
