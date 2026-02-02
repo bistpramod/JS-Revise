@@ -70,3 +70,25 @@ console.log(count--); // Post-decrement: returns 7, then count becomes 6
 console.log(--count); // Pre-decrement: count becomes 5, then returns 5
 
 
+
+
+// type of operator 
+ console.log("Typeof Operator Example:");
+ let var1 = 42;
+ let var2 = "Hello, World!";
+ let var3 = true;
+ let var4 = null;
+ let var5;
+ let var6 = { name: "Alice", age: 30 };
+ let var7 = [1, 2, 3, 4, 5];
+
+ console.log(typeof var1); // number
+ console.log(typeof var2); // string
+ console.log(typeof var3); // boolean
+ console.log(typeof var4); // object (this is a known quirk in JavaScript)
+ console.log(typeof var5); // undefined
+ console.log(typeof var6); // object
+ console.log(typeof var7); // object (arrays are of type object in JavaScript)
+
+ //type of undefined is undefined 
+    console.log(typeof undefined); // undefined
