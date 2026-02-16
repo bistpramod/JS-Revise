@@ -1,0 +1,9 @@
+diff between let const var
+- type 
+- scope (can or cannot be accessed)  let and const block scope , var is funciton scope
+- 
+
+
+what is hoisting and reason to do this 
+
+about clossure

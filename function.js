@@ -79,5 +79,5 @@ const summ= function (o,p)
 console.log(summ(10,10))
 
 
-// 
+
 
