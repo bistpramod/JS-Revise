@@ -39,7 +39,8 @@ let u;
  let l = undefined
 
 // or it can be written as
-let k; // no need to say undefined explicitly,
+let k; // no need to say undefined explicitly,\
+let k; // can we actually rename the variables , ???  no its not replacing , its called just copying the value
 
 
 // the use of undefined is to represent a variable that has been declared but not assigned a value yet.
