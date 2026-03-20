@@ -1,5 +1,5 @@
 // some methods should be remembered in arrays
-
+// read this too
 // higher order methods
 
 const numbers= [1,2,3,4,6,7,8,]
